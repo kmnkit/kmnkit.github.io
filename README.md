@@ -1,37 +1,46 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/kmnkit/kmnkit.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Welcome to Marco Kang's Github Portfolio Page.
+======
+### 주 기술스택에 관하여
 
 ```markdown
-Syntax highlighted code block
+주력 언어
+* Python(+Django)
+* Javascript, TypeScript
+* Go
 
-# Header 1
-## Header 2
-### Header 3
+주력 프레임워크 및 라이브러리
+* Django(with Django Rest Framework)
+* NodeJS(with Pug, MongoDB)
 
-- Bulleted
-- List
+그 외 인프라 스트럭쳐 관련
+* Docker(docker-compose)
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+학습 분야
+2021.07~
+* Deep Learning & Maching Leaning
+* Data Science
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+모든 학습 언어 및 결과물에 대한 소스코드는 [저의 깃허브 페이지](https://github.com/kmnkit)에 있습니다.
 
-### Jekyll Themes
+## 간략한 작성물 및 소개
+코코아 클론 [Kokoa Clone](https://kmnkit.github.io/kokoa-clone-2020/)
+- 기술 스택: HTML5, CSS3
+- 내용: 웹개발 초기학습 단계의 작성물로써, 카카오톡의 외형만을 HTML5, CSS3의 작성법을 익히기 위해 만들었습니다.
+- 기간: 2020/07~2020/07
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kmnkit/kmnkit.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+에어비앤비 클론 [airbnb-clone](https://github.com/kmnkit/airbnb-clone)
+- 기술 스택: Django(MTV 패턴), TailwindCSS
+- 내용: 웹 풀스택 개발 초기 학습 단계의 작성물로써 Django의 MTV패턴(Model, Template, View)을 활용하였으며 화면 작성을 위해 TailwindCSS를 활용하였습니다.
+- 기간: 2020/08~2020/09
+  
+놈플릭스 [Nomflix](https://github.com/kmnkit/nomflix/) / 
+[웹앱페이지는 여기로](https://cocky-mayer-909d05.netlify.app/)
+- 기술 스택: ReactJS
+- 내용: ReactJS로 영화 API를 사용한 영화 소개 웹앱의 소스코드입니다.
 
-### Support or Contact
+임금님 귀는 당나귀귀 [Donkey-ears-api](https://github.com/Donkey-Ears/donkey-ears-api)
+- 기술 스택: Django Rest Framework(Python)
+- 내용: 동화 '임금님 귀는 당나귀귀'를 모티브로 한 Private SNS의 API로써, 아무데에도 말할 수 없는 비밀을 아무도 보지 않는 자신만의 공간에 외쳐보자는 취지의 SNS의 API 백엔드 부분입니다. 프론트엔드 개발자에게 프론트 부분 개발을 일임하여 진행하였으나 완성하지 못하여 백엔드만 남았습니다.
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+그 외 앞으로 더 추가될 예정입니다.

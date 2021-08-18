@@ -43,4 +43,6 @@ Welcome to Marco Kang's Github Portfolio Page.
 - 기술 스택: Django Rest Framework(Python)
 - 내용: 동화 '임금님 귀는 당나귀귀'를 모티브로 한 Private SNS의 API로써, 아무데에도 말할 수 없는 비밀을 아무도 보지 않는 자신만의 공간에 외쳐보자는 취지의 SNS의 API 백엔드 부분입니다. 프론트엔드 개발자에게 프론트 부분 개발을 일임하여 진행하였으나 완성하지 못하여 백엔드만 남았습니다.
 
+[![kmnkit's GitHub stats](https://github-readme-stats.vercel.app/api?username=kmnkit)](https://github.com/kmnkit/github-readme-stats)
+
 그 외 앞으로 더 추가될 예정입니다.
